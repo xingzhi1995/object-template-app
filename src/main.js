@@ -3,7 +3,17 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import './style/style.sass'
+import './style/style.css'
+import './style/style.styl'
+import plugins from './components/index'
+import './iconfont/iconfont.css'
 
+//vconsole控制台
+import VConsole from 'vconsole/dist/vconsole.min.js'
+let vConsole = new VConsole() // 初始化
+
+Vue.use(plugins);
 Vue.config.productionTip = false
 
 /* eslint-disable no-new */

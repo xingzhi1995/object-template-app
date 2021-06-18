@@ -1,0 +1,177 @@
+{
+  "id": "2538125",
+  "name": "pad_features",
+  "font_family": "pad",
+  "css_prefix_text": "pad-",
+  "description": "乐豆家-平板综合模块",
+  "glyphs": [
+    {
+      "icon_id": "8912107",
+      "name": "订 单",
+      "font_class": "dingdan",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "17401849",
+      "name": "状态",
+      "font_class": "zhuangtai",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "11520147",
+      "name": "减少",
+      "font_class": "reduce",
+      "unicode": "e753",
+      "unicode_decimal": 59219
+    },
+    {
+      "icon_id": "14153374",
+      "name": "添加",
+      "font_class": "add",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "6296373",
+      "name": "异常原因",
+      "font_class": "ycyy",
+      "unicode": "ea2b",
+      "unicode_decimal": 59947
+    },
+    {
+      "icon_id": "15998516",
+      "name": "异常原因",
+      "font_class": "ycyy1",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "9833694",
+      "name": "选择",
+      "font_class": "xuanze",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14223734",
+      "name": "404",
+      "font_class": "error",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "17742370",
+      "name": "找不到页面",
+      "font_class": "error1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "16656859",
+      "name": "暂无数据",
+      "font_class": "empty",
+      "unicode": "e6e7",
+      "unicode_decimal": 59111
+    },
+    {
+      "icon_id": "2446278",
+      "name": "部门",
+      "font_class": "bumen",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "9891397",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "19840396",
+      "name": "姓 名",
+      "font_class": "xingming",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "18257309",
+      "name": "货车",
+      "font_class": "huoche",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "2285317",
+      "name": "标签",
+      "font_class": "biaoqian3",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11967498",
+      "name": "标签",
+      "font_class": "biaoqian2",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "19321318",
+      "name": "查询",
+      "font_class": "chaxun",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "16357570",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "5238851",
+      "name": "单选_勾选",
+      "font_class": "gouxuan",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "20288265",
+      "name": "退货申请",
+      "font_class": "tuihuoshenqing",
+      "unicode": "e7ce",
+      "unicode_decimal": 59342
+    },
+    {
+      "icon_id": "2116292",
+      "name": "扫一扫",
+      "font_class": "richscan_icon",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6709601",
+      "name": "标签",
+      "font_class": "biaoqian",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "7552999",
+      "name": "标签",
+      "font_class": "biaoqian1",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "10094591",
+      "name": "暂无数据",
+      "font_class": "zanwushuju1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}

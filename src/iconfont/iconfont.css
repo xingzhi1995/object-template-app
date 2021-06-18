@@ -1,0 +1,111 @@
+@font-face {
+  font-family: "pad"; /* Project id 2538125 */
+  src: url('iconfont.woff2?t=1623836678269') format('woff2'),
+       url('iconfont.woff?t=1623836678269') format('woff'),
+       url('iconfont.ttf?t=1623836678269') format('truetype');
+}
+
+.pad {
+  font-family: "pad" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pad-dingdan:before {
+  content: "\e627";
+}
+
+.pad-zhuangtai:before {
+  content: "\e643";
+}
+
+.pad-reduce:before {
+  content: "\e753";
+}
+
+.pad-add:before {
+  content: "\e605";
+}
+
+.pad-ycyy:before {
+  content: "\ea2b";
+}
+
+.pad-ycyy1:before {
+  content: "\e617";
+}
+
+.pad-xuanze:before {
+  content: "\e60c";
+}
+
+.pad-error:before {
+  content: "\e603";
+}
+
+.pad-error1:before {
+  content: "\e603";
+}
+
+.pad-empty:before {
+  content: "\e6e7";
+}
+
+.pad-bumen:before {
+  content: "\e639";
+}
+
+.pad-shouji:before {
+  content: "\e60b";
+}
+
+.pad-xingming:before {
+  content: "\e634";
+}
+
+.pad-huoche:before {
+  content: "\e633";
+}
+
+.pad-biaoqian3:before {
+  content: "\e601";
+}
+
+.pad-biaoqian2:before {
+  content: "\e60a";
+}
+
+.pad-chaxun:before {
+  content: "\e602";
+}
+
+.pad-fanhui:before {
+  content: "\e74a";
+}
+
+.pad-gouxuan:before {
+  content: "\e61b";
+}
+
+.pad-tuihuoshenqing:before {
+  content: "\e7ce";
+}
+
+.pad-richscan_icon:before {
+  content: "\e661";
+}
+
+.pad-biaoqian:before {
+  content: "\e6bf";
+}
+
+.pad-biaoqian1:before {
+  content: "\e692";
+}
+
+.pad-zanwushuju1:before {
+  content: "\e600";
+}
+
