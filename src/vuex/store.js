@@ -3,7 +3,8 @@ import Vuex from 'vuex'
 
 Vue.use(Vuex)
 
-const actions = {}
+const actions = {
+}
 const mutations = {
 }
 const state = {

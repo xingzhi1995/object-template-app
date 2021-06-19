@@ -2,6 +2,7 @@ import axios from "axios";
 import router from '../router'
 import global from '../global/global'
 import store from "../vuex/store";
+import { Toast } from 'vant';
 
 // 创建axios实例
 const service = axios.create({
@@ -17,6 +18,11 @@ service.interceptors.request.use(
     if (token) {
       request.headers[global.tokenKey] = token;
     }
+      Toast({
+          message: '',
+          icon: require('../assets/image/loading.gif'),
+          duration:0
+      });
     return request;
   },
   error => {
@@ -31,7 +37,7 @@ function onError(query){
 // 拦截返回的数据res,通过返回值直接获取到服务器的数据
 service.interceptors.response.use(
   response => {
-    store.commit('SETSKELETON',false)
+    Toast.clear();
     const res = response.data
     switch (res.code) {
       case 200:
