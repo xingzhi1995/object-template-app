@@ -41,12 +41,12 @@ service.interceptors.response.use(
     const res = response.data
     switch (res.code) {
       case 200:
-        if (res.result==null){
-          Notify({ type: 'danger', message: res.message });
-        }else {
-          return res;
-        }
-        break;
+          if ([null,'',{},[],undefined].includes(res.result)){
+              return []
+          }else {
+              return res;
+          }
+          break;
       case 502:
         break;
       case 500:
