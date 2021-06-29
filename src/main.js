@@ -11,6 +11,7 @@ import './iconfont/iconfont.css'
 import Vant from 'vant';
 import 'vant/lib/index.css';
 import Global from './global/global'
+import './iconfont/iconfont'
 
 Vue.prototype.global=Global
 Vue.use(Vant);

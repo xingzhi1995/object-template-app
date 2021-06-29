@@ -1,7 +1,8 @@
 <template>
-    <Container>
-        <div class="title" slot="header">11111</div>
-    </Container>
+<!--    <Container>-->
+<!--        <div class="title" slot="header">11111</div>-->
+<!--    </Container>-->
+    <Vempty></Vempty>
 </template>
 
 <script>

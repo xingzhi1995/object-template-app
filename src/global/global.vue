@@ -4,7 +4,8 @@
 
     const jsonp = json
     const tokenKey = 'X-Access-Token'
-    const color = '#36A731'
+    const color = '#27933E'
+    const gradientColor = 'linear-gradient(to right, #00befc, #00ffd2)'
     const apiPrefix = ''
     const errorText = '服务器发生异常，请联系管理员' //错误页面提示文案
     //函数
@@ -24,6 +25,6 @@
     // const imgUrl = 'http://assist.ledoujia.com:10001/ret-system/sys/common/static';
 
     export default {
-        jsonp,tokenKey,color,toNext,cancel,apiPrefix,errorText,message,imgUrl
+        jsonp,tokenKey,color,toNext,cancel,apiPrefix,errorText,message,imgUrl,gradientColor
     }
 </script>

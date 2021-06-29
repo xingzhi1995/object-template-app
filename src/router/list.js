@@ -1,5 +1,5 @@
 import container from "../view/container";
-import errror from "../view/public/errror";
+import error from "../view/public/error";
 import init from '../view/public/init'
 import test from "../view/test";
 
@@ -10,9 +10,9 @@ export const list = [
         component: container
     },
     {
-        path: '/errror',
-        name: 'errror',
-        component: errror
+        path: '/error',
+        name: 'error',
+        component: error
     },
     {
         path: '/init',
